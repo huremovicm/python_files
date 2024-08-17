@@ -7,6 +7,7 @@ DTMF table
 770 Hz   4           5           6
 852 Hz   7           8           9
 941 Hz   *           0           #
+
 '''
 
 def isFreqInTable(freq1, freq2):
